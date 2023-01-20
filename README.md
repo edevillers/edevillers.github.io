@@ -22,10 +22,8 @@ Here you'll find various repos of stuff that I'm comfortable sharing, mostly per
 </details>
 
 <details><summary>Surprise :</summary>
-
-<p>
-![a goat](https://github.com/edevillers/edevillers.github.io/blob/main/goat.svg)
-</p>
+ Beeeahhh 
+  
+  <img src="https://github.com/edevillers/edevillers.github.io/blob/main/goat.svg" height="200px" />
 </details>
-
 
