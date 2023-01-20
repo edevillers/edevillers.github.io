@@ -24,6 +24,6 @@ Here you'll find various repos of stuff that I'm comfortable sharing, mostly per
 <details><summary>Surprise :</summary>
  Beeeahhh 
   
-  <img src="https://github.com/edevillers/edevillers.github.io/blob/main/goat.svg" height="200px" />
+  <img alt="chevre" src="https://github.com/edevillers/edevillers.github.io/blob/main/goat.svg" height="200px" />
 </details>
 
