@@ -6,7 +6,7 @@ J'ai été formé d'abord comme gestionnaire d'opérations avant de me former en
 
 Vous trouverez ici différentes repos de trucs que je suis à l'aise de partager, surtout des projets personnels.  Vous verrez que je ne me prends pas au sérieux ;-), un trait de ma personnalité. 
 
----------
+!(chevre)[https://github.com/edevillers/edevillers.github.io/blob/main/goat.svg]
 
 # My github | Etienne de Villers
 
